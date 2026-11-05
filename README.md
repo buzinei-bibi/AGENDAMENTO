@@ -2,7 +2,7 @@
 
 a odonto conecta é uma clínica odontológica com seis dentistas que cuida da boca inteira, da primeira consulta ao implante, de crianças a adultos. este site é o jeito de marcar consulta com ela: em um minuto, pelo celular ou pelo computador, sem precisar ligar nem esperar alguém responder.
 
-![página inicial do site da odonto conecta](imagens/in%C3%ADcio.png)
+<img src="imagens/in%C3%ADcio.png" alt="página inicial do site da odonto conecta" width="520">
 
 ## A CLÍNICA
 
@@ -16,33 +16,11 @@ as consultas começam de meia em meia hora.
 
 ### DENTISTAS
 
-| dentista | especialidade | registro |
-| --- | --- | --- |
-| dr. andré lima | clínico geral e implantes | cro-sp 23.456 |
-| dra. renata okada | estética e odontopediatria | cro-sp 31.208 |
-| dr. paulo mendes | ortodontia | cro-sp 27.645 |
-| dra. sofia martins | endodontia (canal) | cro-sp 35.991 |
-| dra. beatriz nogueira | periodontia e ortodontia | cro-sp 40.112 |
-| dr. lucas ferreira | implantodontia | cro-sp 38.770 |
+são seis dentistas, cada um com a sua especialidade: clínico geral e implantes, estética e odontopediatria (crianças), ortodontia (aparelho), endodontia (canal), periodontia (gengiva) e implantodontia. assim, quase todo tratamento tem mais de um dentista para escolher.
 
 ### TRATAMENTOS E EXAMES
 
-| tipo | tratamento | o que é | duração | valor |
-| --- | --- | --- | --- | --- |
-| prevenção | avaliação | primeira consulta e plano de tratamento | 30 min | r$ 150 |
-| prevenção | limpeza | remoção de tártaro e aplicação de flúor | 40 min | r$ 220 |
-| exames | radiografia panorâmica | raio-x da boca inteira em uma imagem | 15 min | r$ 90 |
-| exames | radiografia periapical | raio-x detalhado de um ou dois dentes | 10 min | r$ 40 |
-| exames | tomografia | imagem em 3d para implante e canal | 20 min | r$ 280 |
-| tratamento | restauração | tratamento de cáries com resina | 45 min | r$ 260 |
-| tratamento | canal | endodontia com anestesia | 90 min | r$ 950 |
-| tratamento | extração | retirada de dente, inclusive siso | 45 min | r$ 300 |
-| tratamento | implante | avaliação e planejamento de implante | 45 min | r$ 250 |
-| tratamento | prótese | coroa, ponte ou dentadura sob medida | 45 min | r$ 350 |
-| estética | clareamento | clareamento a laser no consultório | 60 min | r$ 690 |
-| estética | faceta de resina | corrige cor, forma e pequenos espaços | 60 min | r$ 480 |
-| estética | ortodontia | manutenção de aparelho ou alinhador | 30 min | r$ 180 |
-| crianças | odontopediatria | dentista para crianças de 0 a 12 anos | 30 min | r$ 200 |
+a clínica faz de tudo um pouco: **prevenção** (avaliação e limpeza), **exames** (radiografias e tomografia), **tratamentos** (restauração, canal, extração, implante e prótese), **estética** (clareamento, faceta e aparelho) e **atendimento para crianças** de 0 a 12 anos. as consultas duram de 10 minutos a 1 hora e meia, e o valor de cada uma aparece no site antes de confirmar.
 
 os mais procurados são avaliação, limpeza, clareamento e restauração.
 
